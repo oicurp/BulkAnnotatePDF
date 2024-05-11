@@ -4,7 +4,7 @@ Date: 27 June 2023
 
 Purpose: to extract texts from excel file, and use them to annotate pdf files located in given folder.
 system reqirements: python 3.8.5, annaconda build
-module requirements: os, pandas, and pymupdf(conda install aquohn::pymupdf)
+module requirements: os, pandas, and pymupdf(inside anaconda prompt, run 'pip install pymupdf')
 
 Use Instructioin:
     1) index.xls to contain all the pdf files
